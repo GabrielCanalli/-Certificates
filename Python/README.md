@@ -30,7 +30,7 @@ Abaixo estão detalhados os três pilares que construí nessa etapa, indo desde 
 ### 3. 🔵 Python - Mundo 1 (Curso em Vídeo)
 * **📅 Conclusão:** 06/10/2025
 * **🎯 Foco do Aprendizado:** Famoso pela didática prática, o primeiro módulo do Gustavo Guanabara aprofundou a base com tipos primitivos, operadores aritméticos, utilização de módulos embutidos (`math`, `random`) e tomadas de decisão avançadas com estruturas aninhadas (`if`, `elif`, `else`). Foi essencial para ganhar fluidez no teclado.
-* **📂 Arquivo:** [Visualizar Certificado](./caminho-do-arquivo/mundo1.pdf)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/-Certificates/blob/main/Python/Python_Mundo1_Curso_em_Video.jpeg)
 
 ---
 
