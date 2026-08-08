@@ -28,7 +28,7 @@ Durante o evento, tive contato com **palestras e discussões relacionadas à tec
 
 Essa experiência também reforçou uma ideia importante na minha formação: **aprender tecnologia não acontece apenas através de cursos e códigos, mas também através das pessoas, comunidades e experiências que fazem parte desse ecossistema.** 🌱
 
-* **📂 Arquivo:** [Visualizar Certificado](./FLISOL_2026.pdf)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/-Certificates/blob/main/Events/certificado-participacao-0ilRv%20(1).pdf)
 
 ---
 
