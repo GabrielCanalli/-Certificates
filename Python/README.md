@@ -25,7 +25,7 @@ Abaixo estão detalhados os três pilares que construí nessa etapa, indo desde 
 ### 2. 🔴 Python Santander Open Academy
 * **📅 Conclusão:** 30/09/2025
 * **🎯 Foco do Aprendizado:** Uma imersão voltada para o mercado de tecnologia. Essa formação me permitiu ver como o Python se aplica em cenários reais e corporativos, exigindo uma visão analítica maior e reforçando boas práticas de escrita de código e modularização.
-* **📂 Arquivo:** [Visualizar Certificado](./caminho-do-arquivo/santander.pdf)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/-Certificates/blob/main/Python/Python_Santander.pdf)
 
 ### 3. 🔵 Python - Mundo 1 (Curso em Vídeo)
 * **📅 Conclusão:** 06/10/2025
