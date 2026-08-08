@@ -20,7 +20,7 @@ Abaixo estão detalhados os três pilares que construí nessa etapa, indo desde 
 ### 1. 🟢 Python - Fundação Bradesco
 * **📅 Conclusão:** 27/08/2025
 * **🎯 Foco do Aprendizado:** O ponto de partida ideal para entender a lógica por trás da programação. O curso abordou os fundamentos da arquitetura de software, manipulação de variáveis, estruturas condicionais e de repetição, garantindo que eu criasse uma linha de raciocínio lógico bem estruturada antes de avançar para sintaxes mais complexas.
-* **📂 Arquivo:** [Visualizar Certificado](./caminho-do-arquivo/bradesco.pdf)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/-Certificates/blob/main/Python/Python_Bradesco2025.pdf)
 
 ### 2. 🔴 Python Santander Open Academy
 * **📅 Conclusão:** 30/09/2025
