@@ -27,7 +27,7 @@ Além de apresentar conceitos fundamentais da área, a formação contribuiu par
 
 Foi um primeiro passo para entender que, em um cenário cada vez mais conectado, **proteger informações e sistemas é parte essencial do desenvolvimento tecnológico.** 🔐🌐
 
-* **📂 Arquivo:** [Visualizar Certificado](./Introduction_to_Cybersecurity.pdf)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/Certificates/blob/main/Cisco/certificado_Cybersecurity.pdf)
 
 ---
 
