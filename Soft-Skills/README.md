@@ -37,7 +37,7 @@ Esta formação abordou temas essenciais para a transição entre a vida acadêm
 
 Foi uma experiência importante para desenvolver uma visão mais completa sobre carreira, postura profissional e preparo para processos seletivos. 🌱💼
 
-* **📂 Arquivo:** [Visualizar Certificado](link-do-seu-pdf-aqui)
+* **📂 Arquivo:** [Visualizar Certificado](https://github.com/GabrielCanalli/Certificates/blob/main/Soft-Skills/Coletivo_Online_CocaCola_2025.pdf)
 
 ---
 
