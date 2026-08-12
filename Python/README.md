@@ -11,7 +11,7 @@
 
 <br>
 
-> Olá! Este repositório foi construído para centralizar e validar a minha jornada de fortalecimento em **Python**. Como estudante do curso de Análise e Desenvolvimento de Sistemas, utilizei estas formações extracurriculares durante o meu **2º período** para consolidar a base da lógica de programação, sintaxe e resolução de problemas. 📊💻
+> Olá! Este repositório foi construído para centralizar e validar a minha jornada de fortalecimento em **Python**. Como estudante do curso de Análise e Desenvolvimento de Sistemas, utilizei algumas destas formações extracurriculares durante **os meus estudos na faculdade** para consolidar a base da lógica de programação, sintaxe e resolução de problemas. 📊💻
 
 ---
 
