@@ -1,5 +1,9 @@
 # 📅 Hub de Eventos: Tecnologia & Comunidade
 
+<p align="center">
+  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/watermarked_img_14760913476816639174.png" alt="Calendário" width="350">
+</p>
+
 > *"A tecnologia é melhor quando aproxima as pessoas."* 💻🤝
 
 > Este repositório foi criado para centralizar os **certificados de participação em eventos, palestras, workshops e encontros relacionados à Tecnologia da Informação**. Mais do que registrar certificados, este espaço representa uma parte importante da minha jornada acadêmica e profissional: **sair da teoria, conhecer novas perspectivas e estar em contato com a comunidade de tecnologia.** 🚀🌎
