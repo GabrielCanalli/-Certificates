@@ -1,7 +1,7 @@
 # 🌱 Hub de Certificados: Soft Skills
 
 <p align="center">
-  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/watermarked_img_14760913476816639174.png" alt="Calendário" width="350">
+  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/logo_soft_skills-removebg-preview.png" alt="Calendário" width="350">
 </p>
 
 > "As habilidades técnicas te levam à entrevista. As soft skills te fazem ficar."
