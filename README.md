@@ -1,7 +1,7 @@
 # 🎓 Certificates — Minha Jornada em Tecnologia 💻
 
 <p align="center">
-  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/logo_soft_skills-removebg-preview.png" alt="Calendário" width="350">
+  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/Logo_Certificado_Readme-removebg-preview.png" alt="Calendário" width="350">
 </p>
 
 
