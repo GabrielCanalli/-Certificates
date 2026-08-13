@@ -1,5 +1,10 @@
 # 🎓 Certificates — Minha Jornada em Tecnologia 💻
 
+<p align="center">
+  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/logo_soft_skills-removebg-preview.png" alt="Calendário" width="350">
+</p>
+
+
 > *"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."* — Leonardo da Vinci
 
 > Bem-vindo ao registro da minha jornada de aprendizado em **Tecnologia da Informação**! 🚀
