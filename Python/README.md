@@ -3,7 +3,7 @@
 
 # 🐍 Hub de Certificados: Python 🐍 
 
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="200"/>
+<img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/python-logo.png" width="200"/>
 
 > *"O segredo para progredir é começar."* — Mark Twain
 
