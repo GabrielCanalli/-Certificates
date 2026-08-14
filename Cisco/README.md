@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cisco/cisco.github.io/master/images/cisco-logo.svg" width="200" alt="Cisco Networking & Cybersecurity"/>
+  <img src="https://github.com/GabrielCanalli/Certificates/blob/main/Assets/undefined--removebg-preview.png" width="200" alt="Cisco Networking & Cybersecurity"/>
   <h1> 🔐 Hub de Certificados: Cisco 🛡️</h1>
 </div>
 
